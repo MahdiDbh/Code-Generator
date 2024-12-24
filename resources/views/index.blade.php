@@ -12,8 +12,8 @@
                             <thead>
                                 <tr>
                                     <th style="width: 10px">#</th>
-                                    <th>Task</th>
-                                    <th>Progress</th>
+                                    <th>Nickname</th>
+                                    <th>Code Bar</th>
                                     <th style="width: 40px">Label</th>
                                 </tr>
                             </thead>
@@ -61,22 +61,7 @@
                             </tbody>
                         </table>
                     </div> <!-- /.card-body -->
-                    <div class="card-footer clearfix">
-                        <ul class="pagination pagination-sm m-0 float-end">
-                            <li class="page-item"> <a class="page-link" href="#">&laquo;</a> </li>
-                            <li class="page-item"> <a class="page-link" href="#">1</a> </li>
-                            <li class="page-item"> <a class="page-link" href="#">2</a> </li>
-                            <li class="page-item"> <a class="page-link" href="#">3</a> </li>
-                            <li class="page-item"> <a class="page-link" href="#">&raquo;</a> </li>
-                        </ul>
-                    </div>
-
                 </div> <!-- /.card -->
-            </div> <!-- /.col -->
-            
-                    </div> <!-- /.card-body -->
-                </div> <!-- /.card -->
-            </div> <!-- /.col -->
         </div> <!--end::Row-->
     </div> <!--end::Container-->
 </div> <!--end::App Content-->
