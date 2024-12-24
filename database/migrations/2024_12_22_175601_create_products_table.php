@@ -15,7 +15,7 @@ return new class extends Migration
             $table->id();
             $table->string('title');
             $table->string('product_code');
-            $table->sting('price');
+            $table->string('price');
             $table->text('description');
             $table->timestamps();
         });
